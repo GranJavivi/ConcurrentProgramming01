@@ -1,0 +1,8 @@
+Resolve the next exercises using pointers:
+1. Compare two strings for equality. If they are equal, zero is returned, otherwise the difference in value between the first two non-matching characters.
+2. Find the first occurrence of a specific character in a given string. Return a pointer to the occurrence in the string, or zero if it is not found.
+3. Take two strings as arguments. Return 1 if the first string is a prefix of the second one; otherwise return 0.
+4. Take two strings as arguments. If the first exists in the second as a substring, return a pointer to the first occurrence, otherwise zero.
+5. Using a linked list of integers (you may use the previously created in the exercise of natural numbers), insert 100 random elements. Then, sort them using the bubble sort algorithm.
+6. Read a text file and insert into a linked list of strings (char*) the words contained in such a file. Prevent duplicates and, finally, provide the resulting list in alphabetical order. The concept of word is: any sequence of letters (upper or lowercase). Spaces, commas, dashes, etc. are not considered words, either alone or as part of any other word.
+7. A dictionary can be implemented by means of a tree whose nodes contains as many pointers and booleans as letters are in the alphabet. Each branch (or path) of the tree whose leaf (end letter) has a true boolean represents a valid word. The depth of the tree matches the length of the longest word.
