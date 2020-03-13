@@ -1,4 +1,4 @@
-//PointerExamples
+//pointers_examples
 //Javier Marquez Ruiz
 //These are some examples of pointers
 
